@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.adonai.tools</groupId>
 	<artifactId>com4j-ebest-generate</artifactId>
-	<version>10.4.1.0</version>
+	<version>12.2.0.0</version>
 	<packaging>pom</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
